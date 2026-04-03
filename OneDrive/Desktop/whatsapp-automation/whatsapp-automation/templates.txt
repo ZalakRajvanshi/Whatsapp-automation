@@ -1,0 +1,24 @@
+[MSG1]
+Hey {name} - Astha here from The Product Folks. Hope you're well :)
+
+A bunch of senior leaders & founders in the community are hiring for {role} roles. Wanted to check if you're exploring roles currently - happy to make intros if yes.
+
+If not - happy to help wherever we can, just a msg away:)
+
+[MSG2]
+Hi {name} - checking back if you're looking out right now?
+
+Came across a few relevant {role} roles and thought of you - happy to share if it's something you'd want to explore.
+
+[MSG3]
+Hey {name} - wanted to close the loop here. Let me know if you'd like me to connect you with relevant roles, else no worries at all :)
+
+[HR_NOTIFY]
+🔔 New Reply!
+
+Name: {name}
+Role: {role}
+Phone: {phone}
+Message: {messages}
+
+Please follow up with them!
