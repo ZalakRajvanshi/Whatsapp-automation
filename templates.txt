@@ -1,9 +1,9 @@
 [MSG1]
-Hey {name} - Astha here from The Product Folks. Hope you're well :)
+Hey {name} - hope you're doing well :)
 
-A bunch of senior leaders & founders in the community are hiring for {role} roles. Wanted to check if you're exploring roles currently - happy to make intros if yes.
+We're hiring for {role} roles and wanted to check if you're exploring opportunities currently - happy to share more details if yes.
 
-If not - happy to help wherever we can, just a msg away:)
+If not - no worries at all, just a msg away :)
 
 [MSG2]
 Hi {name} - checking back if you're looking out right now?
