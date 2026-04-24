@@ -42,7 +42,7 @@ print("=" * 55)
 print("\nThis will open Chrome, load WhatsApp Web, and send")
 print("one test message to the number you provide.\n")
 
-phone = input("Enter phone number with country code (e.g. +919876543210): ").strip()
+phone = input("Enter phone number with country code (e.g. +91XXXXXXXXXX): ").strip()
 if not phone:
     print("[Error] Phone number cannot be empty.")
     sys.exit(1)
