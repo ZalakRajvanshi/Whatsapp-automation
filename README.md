@@ -228,4 +228,4 @@ MIT
 
 ## Built By
 
-Open source. Contributions welcome.
+Zalak Rajvanshi
