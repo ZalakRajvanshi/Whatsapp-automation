@@ -73,7 +73,7 @@ driver.execute_cdp_cmd("Page.addScriptToEvaluateOnNewDocument", {
     "source": "Object.defineProperty(navigator, 'webdriver', {get: () => undefined})"
 })
 print("[Setup] Chrome launched.")
-
+ 
 # ── Open WhatsApp Web ─────────────────────────────────────────────────────────
 print("\n[WhatsApp] Opening WhatsApp Web...")
 driver.get("https://web.whatsapp.com")
